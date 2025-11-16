@@ -1,4 +1,4 @@
-# 🤟 Real-Time American Sign Language Recognition
+# Real-Time American Sign Language Recognition
 
 > **A Deep Learning Approach to Bridge Communication Gaps**
 
