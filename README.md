@@ -12,7 +12,6 @@ Real-time American Sign Language (ASL) gesture recognition system using computer
 - [Features](#-features)
 - [System Architecture](#-system-architecture)
 - [Results](#-results)
-- [Technical Report](#-technical-report)
 - [Installation](#-installation)
 - [Usage](#-usage)
 - [Model Architecture](#-model-architecture)
@@ -22,7 +21,7 @@ Real-time American Sign Language (ASL) gesture recognition system using computer
 - [Future Work](#-future-work)
 - [Citation](#-citation)
 - [Acknowledgments](#-acknowledgments)
-- [License](#-license)
+
 
 ---
 
