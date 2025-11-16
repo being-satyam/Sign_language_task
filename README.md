@@ -100,18 +100,11 @@ This project addresses the critical communication barrier between the deaf/hard-
 ### Training Performance
 
 <p align="center">
-  <img src="training_results.png" alt="Training Results" width="800"/>
+  <img src="training_para.jpg" alt="Training Results" width="800"/>
   <br>
   <em>Training dashboard showing accuracy, loss, and top-5 accuracy curves over 17 epochs</em>
 </p>
 
-### Sample Predictions
-
-<p align="center">
-  <img src="sample_predictions.png" alt="Sample Predictions" width="600"/>
-  <br>
-  <em>Real-time gesture recognition: Number "5" and Alphabet "C"</em>
-</p>
 
 ### Performance Metrics
 
