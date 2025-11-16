@@ -126,41 +126,6 @@ This project addresses the critical communication barrier between the deaf/hard-
 
 ---
 
-## 📄 Technical Report
-
-The complete technical report is available as a LaTeX document:
-
-- **📁 File**: [`ASL_Recognition_Report.tex`](ASL_Recognition_Report.tex)
-- **📖 PDF**: [Download Report](ASL_Recognition_Report.pdf) *(compile LaTeX to generate)*
-
-### Report Contents
-
-1. **Introduction** - Problem statement, motivation, and objectives
-2. **Methods** - System architecture, data collection, model design
-3. **Pseudocode** - Detailed algorithms for recognition pipeline
-4. **Results** - Comprehensive performance analysis with visualizations
-5. **Conclusions & Limitations** - Technical achievements and future directions
-
-### Compiling the Report
-
-```bash
-# Install required LaTeX packages
-sudo apt-get install texlive-full
-
-# Compile the report
-pdflatex ASL_Recognition_Report.tex
-pdflatex ASL_Recognition_Report.tex  # Run twice for references
-
-# Or use Overleaf for online compilation
-```
-
-**Required Images**:
-- `NITK_logo.png` - Institution logo
-- `training_results.png` - Training metrics dashboard
-- `sample_predictions.png` - Sample gesture predictions
-
----
-
 ## 🚀 Installation
 
 ### Prerequisites
